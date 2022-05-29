@@ -1,1 +1,102 @@
 # cv
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Kavi dhanush web resume</title>
+</head>
+
+<body>
+
+  <h1>KAVI DHANUSH.R</h1>
+  <P>
+    A 3rd year engineering graduate and currently developing <strong>full stack developer</strong>.
+  </P>
+  <p>
+    Curretly learning from <a href="https://appbrewery.co">The app brewery</a>
+  </p>
+  <hr>
+  <h3>Schooling and Education</h3>
+  <ul>
+    <li>
+      Currently purcuing 3rd year in <em>ECE</em> in <strong>Velammal Engineering College</strong>
+    </li>
+    <li>
+      81% in 12th std from<em>Shri Anand Jain Vidyalaya</em>
+    </li>
+    <li>
+      95% in 10th std from <em>Shri Anand Jain Vidyalaya</em>
+    </li>
+  </ul>
+  <a href="hobbies.html">Hobbies of Kavi dhanush</a>
+  <h3>TABLE 1</h3>
+  <table>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <th>SKILL</th>
+            <th>CONFIDENCE</th>
+          </tr>
+          <tr>
+            <td>Web development</td>
+            <td>❤️❤️❤️❤️</td>
+          </tr>
+          <tr>
+            <td>Drawing</td>
+            <td>❤️❤️❤️❤️❤️</td>
+          </tr>
+          <tr>
+            <td>Painting</td>
+            <td>❤️❤️❤️❤️❤️</td>
+          </tr>
+
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <th>SKILL</th>
+            <th>CONFIDENCE</th>
+          </tr>
+          <tr>
+            <td>Web development</td>
+            <td>❤️❤️❤️❤️</td>
+          </tr>
+          <tr>
+            <td>Drawing</td>
+            <td>❤️❤️❤️❤️❤️</td>
+          </tr>
+          <tr>
+            <td>Painting</td>
+            <td>❤️❤️❤️❤️❤️</td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <th>SKILL</th>
+      <th>CONFIDENCE</th>
+    </tr>
+    <tr>
+      <td>Web development</td>
+      <td>❤️❤️❤️❤️</td>
+    </tr>
+    <tr>
+      <td>Drawing</td>
+      <td>❤️❤️❤️❤️❤️</td>
+    </tr>
+    <tr>
+      <td>Painting</td>
+      <td>❤️❤️❤️❤️❤️</td>
+    </tr>
+
+  </table>
+  <a href="D:Web development\HTML-personal suite\contact-me.html">Contact-me</a>
+</body>
+
+</html>
